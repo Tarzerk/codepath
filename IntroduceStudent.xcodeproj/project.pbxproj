@@ -13,6 +13,7 @@
 		4D641B4729515DE9000426E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D641B4529515DE9000426E1 /* Main.storyboard */; };
 		4D641B4929515DEA000426E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D641B4829515DEA000426E1 /* Assets.xcassets */; };
 		4D641B4C29515DEA000426E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D641B4A29515DEA000426E1 /* LaunchScreen.storyboard */; };
+		4D641B5629516219000426E1 /* utd logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D641B5529516219000426E1 /* utd logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4D641B4829515DEA000426E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D641B4B29515DEA000426E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D641B4D29515DEA000426E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D641B5529516219000426E1 /* utd logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "utd logo.png"; path = "../../../../Desktop/utd logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				4D641B4129515DE9000426E1 /* SceneDelegate.swift */,
 				4D641B4329515DE9000426E1 /* ViewController.swift */,
 				4D641B4529515DE9000426E1 /* Main.storyboard */,
+				4D641B5529516219000426E1 /* utd logo.png */,
 				4D641B4829515DEA000426E1 /* Assets.xcassets */,
 				4D641B4A29515DEA000426E1 /* LaunchScreen.storyboard */,
 				4D641B4D29515DEA000426E1 /* Info.plist */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D641B4C29515DEA000426E1 /* LaunchScreen.storyboard in Resources */,
+				4D641B5629516219000426E1 /* utd logo.png in Resources */,
 				4D641B4929515DEA000426E1 /* Assets.xcassets in Resources */,
 				4D641B4729515DE9000426E1 /* Main.storyboard in Resources */,
 			);
